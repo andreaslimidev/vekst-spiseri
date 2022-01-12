@@ -1,0 +1,22 @@
+.logoContainer {
+  max-width: 500px;
+  height: auto;
+  width: 100%;
+}
+
+.container {
+  text-align: center;
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1.25rem;
+
+    a {
+      text-decoration: underline;
+      font-weight: 500;
+    }
+  }
+}
